@@ -1,0 +1,9 @@
+p {
+    color: violet;
+}
+a {
+    color: green    ;
+}
+img:first-child {
+    border-radius: 10px;
+}
